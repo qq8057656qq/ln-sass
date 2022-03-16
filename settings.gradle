@@ -1,0 +1,2 @@
+rootProject.name = 'ln-sass'
+include('ln-core','ln-demo')
