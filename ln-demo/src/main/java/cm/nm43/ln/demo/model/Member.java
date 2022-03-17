@@ -3,7 +3,6 @@ package cm.nm43.ln.demo.model;
 import cm.nm43.ln.demo.base.BaseModel;
 import lombok.Getter;
 import lombok.Setter;
-
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Table;
